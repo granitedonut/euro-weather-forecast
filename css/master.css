@@ -1,0 +1,624 @@
+/* OBFUSCATED BY CSSOBFUSCATOR.COM at 2023/03/12 09:28:58 */
+[class~=bm-2] {
+    margin-bottom: 2rem;
+}
+
+[class~=card] {
+    background-color: #27282d;
+}
+
+[class~=tooltip][class~=top] > [class~=tooltip-arrow] {
+    border-top-width: 1.5pt;
+}
+
+body {
+    background-color: #000000;
+}
+
+[class~=card] {
+    border-left-width: medium;
+}
+
+[class~=card] {
+    border-bottom-width: medium;
+}
+
+[class~=card] {
+    border-right-width: medium;
+}
+
+[class~=card] {
+    border-top-width: medium;
+}
+
+[class~=card] {
+    border-left-style: none;
+}
+
+[class~=card] {
+    border-bottom-style: none;
+}
+
+[class~=tooltip] > [class~=tooltip-inner] {
+    background-color: blue;
+}
+
+[class~=card] {
+    border-right-style: none;
+}
+
+#query-form,[class~=forecast-block] {
+    margin-left: auto;
+}
+
+a:hover {
+    color: yellow;
+}
+
+[class~=tooltip] > [class~=tooltip-inner] {
+    border-radius: .072916667in;
+}
+
+[class~=card] {
+    border-top-style: none;
+}
+
+[class~=card] {
+    border-left-color: currentColor;
+}
+
+[class~=card] {
+    border-bottom-color: currentColor;
+}
+
+#query-form {
+    margin-bottom: auto;
+}
+
+[class~=card] {
+    border-right-color: currentColor;
+}
+
+[class~=card] {
+    border-top-color: currentColor;
+}
+
+body {
+    background-image: url("../images/bkg.png");
+}
+
+[class~=card] {
+    border-image: none;
+}
+
+[class~=tooltip][class~=top] > [class~=tooltip-arrow],[class~=keyword-magnet] {
+    border-top-style: solid;
+}
+
+[class~=tooltip] > [class~=tooltip-inner] {
+    color: #fff;
+}
+
+[class~=card] {
+    padding-bottom: 1rem;
+}
+
+[class~=keyword-magnet],[class~=tooltip] > [class~=tooltip-inner] {
+    border-left-width: 1.7px;
+}
+
+.card-body {
+    background-color: #001964;
+}
+
+[class~=forecast-block] {
+    margin-bottom: 0;
+}
+
+#query-form,[class~=forecast-block] {
+    margin-right: auto;
+}
+
+[class~=forecast-block] {
+    margin-top: 0;
+}
+
+[class~=forecast-block] {
+    width: 90%;
+}
+
+body,html {
+    overflow-x: hidden;
+}
+
+[class~=keyword-magnet],[class~=tooltip] > [class~=tooltip-inner] {
+    border-bottom-width: 1.7px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+[class~=keyword-magnet],[class~=tooltip] > [class~=tooltip-inner] {
+    border-right-width: .017708333in;
+}
+
+[class~=keyword-magnet],[class~=tooltip] > [class~=tooltip-inner] {
+    border-top-width: .017708333in;
+}
+
+[class~=keyword-magnet],[class~=tooltip] > [class~=tooltip-inner] {
+    border-left-style: solid;
+}
+
+[class~=tooltip] > [class~=tooltip-inner],[class~=keyword-magnet] {
+    border-bottom-style: solid;
+}
+
+[class~=tooltip] > [class~=tooltip-inner],[class~=keyword-magnet] {
+    border-right-style: solid;
+}
+
+[class~=keyword-magnet] {
+    border-left-color: #ddd;
+}
+
+[class~=keyword-magnet] {
+    border-bottom-color: #ddd;
+}
+
+[class~=keyword-magnet] {
+    border-right-color: #ddd;
+}
+
+[class~=tooltip][class~=top] > [class~=tooltip-arrow] {
+    border-top-color: #ff0;
+}
+
+[class~=keyword-magnet] {
+    border-top-color: #ddd;
+}
+
+[class~=keyword-magnet],[class~=tooltip][class~=top] > [class~=tooltip-arrow] {
+    border-image: none;
+}
+
+[class~=keyword-magnet] {
+    border-radius: .0625in;
+}
+
+#query-form {
+    margin-top: auto;
+}
+
+[class~=keyword-magnet] {
+    color: #ddd;
+}
+
+[class~=keyword-magnet] {
+    font-size: .85em;
+}
+
+[class~=keyword-magnet] {
+    line-height: 2.2em;
+}
+
+[class~=keyword-magnet] {
+    margin-left: .1em;
+}
+
+[class~=keyword-magnet] {
+    margin-bottom: .1em;
+}
+
+p {
+    color: #becbff;
+}
+
+[class~=keyword-magnet] {
+    margin-right: .1em;
+}
+
+[class~=keyword-magnet] {
+    margin-top: .1em;
+}
+
+[class~=keyword-magnet] {
+    padding-left: .5em;
+}
+
+[class~=keyword-magnet] {
+    padding-bottom: .15em;
+}
+
+[class~=keyword-magnet] {
+    padding-right: .5em;
+}
+
+[class~=keyword-magnet] {
+    padding-top: .15em;
+}
+
+[class~=subsection-heading],.weather-icon-div,[class~=keyword-magnet],[class~=section-subheading],[class~=section-heading],[class~=section-divider],.section-description,p {
+    text-align: center;
+}
+
+.tooltip.bottom > .tooltip-arrow {
+    border-bottom-width: .052083333in;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+[class~=keyword-magnet] {
+    text-shadow: none;
+}
+
+[class~=keyword-magnet] {
+    white-space: pre;
+}
+
+.tooltip.bottom > .tooltip-arrow {
+    border-bottom-style: solid;
+}
+
+[class~=hero] {
+    width: 100%;
+}
+
+[class~=section-heading] {
+    font-size: 3.3em;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.tooltip.bottom > .tooltip-arrow {
+    border-bottom-color: #ff0;
+}
+
+[class~=section-heading] {
+    margin-top: 3rem;
+}
+
+[class~=section-heading] {
+    margin-bottom: 1rem;
+}
+
+[class~=section-subheading] {
+    color: white;
+}
+
+[class~=section-subheading] {
+    font-size: 2em;
+}
+
+[class~=section-divider] img {
+    height: auto;
+}
+
+[class~=section-subheading] {
+    margin-top: 2rem;
+}
+
+[class~=section-subheading] {
+    margin-bottom: 2rem;
+}
+
+[class~=subsection-heading],[class~=section-subheading] {
+    text-shadow: 3px .03125in .625pc black;
+}
+
+.section-description {
+    margin-bottom: 3rem;
+}
+
+[class~=section-divider] {
+    margin-left: auto;
+}
+
+[class~=section-divider] img {
+    width: 90%;
+}
+
+.tooltip.bottom > .tooltip-arrow {
+    border-image: none;
+}
+
+[class~=subsection-divider],[class~=section-divider] {
+    margin-bottom: 2rem;
+}
+
+[class~=section-divider] {
+    margin-right: auto;
+}
+
+[class~=subsection-divider],[class~=section-divider] {
+    margin-top: 2rem;
+}
+
+[class~=section-divider] {
+    opacity: .75;
+}
+
+[class~=small-animation] {
+    width: 6rem;
+}
+
+[class~=subsection-divider] {
+    background-image: linear-gradient(to right,rgba(136,159,179,0),rgba(136,159,179,.75),rgba(136,159,179,0));
+}
+
+[class~=subsection-divider] {
+    border-left-width: 0;
+}
+
+[class~=subsection-divider] {
+    border-bottom-width: 0;
+}
+
+#query-form {
+    max-width: 85%;
+}
+
+[class~=subsection-divider] {
+    border-right-width: 0;
+}
+
+[class~=subsection-divider] {
+    border-top-width: 0;
+}
+
+[class~=subsection-divider] {
+    border-left-style: none;
+}
+
+[class~=subsection-divider] {
+    border-bottom-style: none;
+}
+
+[class~=subsection-divider] {
+    border-right-style: none;
+}
+
+[class~=subsection-divider] {
+    border-top-style: none;
+}
+
+[class~=subsection-divider] {
+    border-left-color: currentColor;
+}
+
+[class~=subsection-divider] {
+    border-bottom-color: currentColor;
+}
+
+[class~=subsection-divider] {
+    border-right-color: currentColor;
+}
+
+[class~=subsection-divider] {
+    border-top-color: currentColor;
+}
+
+[class~=tooltip] > [class~=tooltip-inner] {
+    border-top-style: solid;
+}
+
+p {
+    text-shadow: .0625pc .0625pc 5px black;
+}
+
+[class~=weather-date],h1 {
+    color: #ff0;
+}
+
+[class~=subsection-divider] {
+    border-image: none;
+}
+
+[class~=subsection-divider] {
+    height: 1px;
+}
+
+[class~=subsection-divider] {
+    margin-left: 10%;
+}
+
+[class~=tooltip] > [class~=tooltip-inner] {
+    border-left-color: white;
+}
+
+[class~=subsection-divider] {
+    margin-right: 10%;
+}
+
+[class~=tooltip] > [class~=tooltip-inner] {
+    border-bottom-color: white;
+}
+
+[class~=subsection-divider] {
+    width: 80%;
+}
+
+[class~=subsection-heading] {
+    font-size: 2rem;
+}
+
+[class~=subsection-heading] {
+    margin-bottom: 2rem;
+}
+
+[class~=weather-date] {
+    font-size: 1.2rem;
+}
+
+[class~=tooltip][class~=left] > [class~=tooltip-arrow] {
+    border-left-width: 3.75pt;
+}
+
+[class~=tooltip] > [class~=tooltip-inner] {
+    border-right-color: white;
+}
+
+.weather-description,[class~=weather-date] {
+    font-weight: bold;
+}
+
+[class~=weather-date],.weather-icon-div,.weather-description,[class~=weather-temperatures] {
+    margin-left: auto;
+}
+
+[class~=weather-date] {
+    margin-bottom: .8rem;
+}
+
+h1 {
+    text-shadow: 2.25pt 2.25pt 7.5pt black;
+}
+
+.weather-description,.weather-icon-div,[class~=weather-temperatures],[class~=weather-date] {
+    margin-right: auto;
+}
+
+[class~=tooltip] > [class~=tooltip-inner] {
+    border-top-color: white;
+}
+
+[class~=weather-date] {
+    margin-top: .8rem;
+}
+
+.weather-description,[class~=weather-date],.weather-icon-div,[class~=weather-temperatures] {
+    max-width: 90%;
+}
+
+[class~=weather-day-div] {
+    margin-top: 1rem;
+}
+
+[class~=weather-day-div] {
+    margin-bottom: 2rem;
+}
+
+.weather-icon-div,.weather-description {
+    color: white;
+}
+
+.weather-description {
+    font-size: .8rem;
+}
+
+.weather-description {
+    margin-bottom: .6rem;
+}
+
+[class~=tooltip] > [class~=tooltip-inner] {
+    border-image: none;
+}
+
+.weather-description {
+    margin-top: .2rem;
+}
+
+.weather-description {
+    min-height: 1.5em;
+}
+
+.weather-icon-div {
+    font-size: 3rem;
+}
+
+[class~=weather-temperatures],.weather-icon-div {
+    margin-bottom: 0;
+}
+
+[class~=weather-temperatures],.weather-icon-div {
+    margin-top: 0;
+}
+
+[class~=tooltip][class~=left] > [class~=tooltip-arrow] {
+    border-left-style: solid;
+}
+
+[class~=tooltip] > [class~=tooltip-inner] {
+    padding-left: 5.25pt;
+}
+
+.weather-icon-div {
+    min-width: 8rem;
+}
+
+[class~=weather-temperatures] {
+    color: #ffe8c6;
+}
+
+[class~=weather-temperatures] {
+    font-size: .9rem;
+}
+
+a {
+    color: #0ef;
+}
+
+.copyright-text {
+    color: #becbff;
+}
+
+[class~=tooltip] > [class~=tooltip-inner] {
+    padding-bottom: 5.25pt;
+}
+
+footer {
+    padding-bottom: 4rem;
+}
+
+footer {
+    padding-top: .2rem;
+}
+
+[class~=tooltip] > [class~=tooltip-inner] {
+    padding-right: 5.25pt;
+}
+
+[class~=tooltip][class~=left] > [class~=tooltip-arrow] {
+    border-left-color: #ff0;
+}
+
+[class~=tooltip] > [class~=tooltip-inner] {
+    padding-top: 5.25pt;
+}
+
+[class~=tooltip] > [class~=tooltip-inner] {
+    font-size: .125in;
+}
+
+[class~=tooltip][class~=left] > [class~=tooltip-arrow] {
+    border-image: none;
+}
+
+footer {
+    text-align: center;
+}
+
+footer {
+    text-shadow: 2px 1.5pt 7.5pt black;
+}
+
+[class~=tooltip][class~=right] > [class~=tooltip-arrow] {
+    border-right-width: 3.75pt;
+}
+
+[class~=tooltip][class~=right] > [class~=tooltip-arrow] {
+    border-right-style: solid;
+}
+
+[class~=tooltip][class~=right] > [class~=tooltip-arrow] {
+    border-right-color: #ff0;
+}
+
+[class~=tooltip][class~=right] > [class~=tooltip-arrow] {
+    border-image: none;
+}
